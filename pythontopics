@@ -1,0 +1,14 @@
+Variables 2
+Datatypes :
+    Numeric/Numbers:
+        integers, floats
+    Sequence Types:
+        strings, lists, Tuples
+    Mapping Types:
+        dictionaries
+    Sets:
+        sets
+    Boolean:
+        True/False
+    NoneTypes:
+        None
