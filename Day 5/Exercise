@@ -1,0 +1,8 @@
+Problem 1: Simple Math
+Ask the user for two numbers. Convert these numbers to integers and print the sum, difference, product, and quotient of these two numbers.
+
+Problem 2: Age in Seconds
+Ask the user for their age in years. Assume that a year always has 365 days, and convert the age into seconds. Then print this value.
+
+Problem 3: String Formatting and User Input
+Write a Python program that asks the user for their name and age, and then prints a message greeting the user and telling them how old they will be on their next birthday. Make sure to use string formatting to construct the message.
