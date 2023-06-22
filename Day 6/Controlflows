@@ -9,13 +9,10 @@ Easy:
 Write a program that takes an input from the user for a temperature in Fahrenheit. Convert this to Celsius and print the result. If the temperature in Celsius is less than 0, print a message indicating that the temperature is below freezing.
 
 Medium:
-
 Suppose the entrance fee for a zoo is $10 for children, $20 for adults, and $15 for seniors. Write a program that asks the user to input the category they fall under (Child, Adult, or Senior) and prints out the corresponding entrance fee. Make sure your program handles cases where the user inputs something other than these three categories.
 
 Hard:
-
 Imagine you're writing a program for a vending machine. The machine offers 4 products: "Juice" for $2.50, "Soda" for $2.00, "Water" for $1.00, and "Chips" for $1.50.
-
 Write a Python program that asks the user for the product they want to buy and the amount of money they have. The program should check if the user has enough money for the product. If they do, the program should print a successful purchase message and the amount of change the user should get. If they don't, the program should print a message indicating that they need more money.
 
 Make sure your program can handle a situation where the user inputs a product that is not offered by the vending machine. Use conditional statements to solve this problem.
