@@ -1,0 +1,11 @@
+Intermediate Level
+Write a Python program that calculates the factorial of a number. The factorial (denoted by !) of a number n is the product of all positive integers less than or equal to n. For example, the factorial of 5 is 5 * 4 * 3 * 2 * 1 = 120. You should use a for loop to solve this task.
+
+Difficult Level
+Given a list of numbers, write a Python program that uses a while loop to find the smallest and largest numbers in the list without using built-in functions like min(), max(), sort(), etc. Your solution should also include error checking to handle cases when the list is empty. [1,13,4,54]
+
+Very Difficult Level
+Write a Python program to solve the N-Queens problem using backtracking. The N Queens puzzle is the problem of placing N chess queens on an N×N chessboard so that no two queens threaten each other. Thus, a solution requires that no two queens share the same row, column, or diagonal. Your program should print out one of the solutions to the problem if one exists and indicate if no solutions exist. You should use loops and recursion in your solution.
+
+
+
