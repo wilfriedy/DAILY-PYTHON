@@ -1,0 +1,27 @@
+Introduction to Sets
+Basics of Sets in Python
+    Definition of a Set
+    Set creation
+    Characteristics of a Set
+Set Operations
+    Addition of elements
+    Removal of elements
+    Checking if an element is in a Set
+Advanced Set Operations
+    intersection, union, difference,"comparison"
+
+***** INTERMEDIATE *****
+Set Methods
+Set comprehension
+        %Problem%
+    Create a set using a set comprehension. The set should contain the squares of all numbers from 1 to 10. end|
+
+Using Sets with Other Data Structures
+    List and tuples
+    %Problem%
+    Convert a list with duplicate elements into a set to remove duplicates. Then convert it back to a list.
+    Convert a tuple to a set. Try adding a tuple to a set as an element.
+
+*********PROBLEM**********
+Practice Problems:
+Write a program that extracts distinct words from a text using sets.
