@@ -1,0 +1,30 @@
+-What is a List
+-Creating list
+    []
+    range()
+-Accessing Values in a List and using them
+    -Negative indexing
+    -Indexing Errors
+    -Length of a List
+-Modifying values in a list
+    []
+- Looping through a list
+    -Indentation Errors
+-Adding new values with append
+    using Append to add new values to an empty list
+-Inserting value at a position
+-Removing Values From a List
+    del
+    pop
+    pop at a position
+    Del vs pop
+    remove()
+-List slicing
+-Copying a List
+-Sorting a list
+    sort() ---> params
+    sort vs sorted
+-Reverse order of a list
+-Maths in list
+-List comprehension
+
